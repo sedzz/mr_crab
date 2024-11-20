@@ -1,6 +1,6 @@
 {
     "name": "Mr Crab",
     "symbol": "MRC",
-    "description": "Example token from Solana Making a Token guide.",
+    "description": "Example Mr Crab Token",
     "image": "https://raw.githubusercontent.com/sedzz/mr_crab/refs/heads/main/crab.jpg"
   }
